@@ -1,4 +1,4 @@
-## fbbrute.py - Facebook Brute Force
+## CrackFacebook.py - Facebook Brute Force
 # -*- coding: utf-8 -*-
 ##
 import os
