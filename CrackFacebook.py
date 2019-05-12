@@ -1,4 +1,4 @@
-## CrackFacebook.py - Facebook Brute Force
+## CrackFacebook.py - CrackFacebook Brute Force
 # -*- coding: utf-8 -*-
 ##
 import os
@@ -13,7 +13,7 @@ __banner__ = """
        |..........Facebook Cracker v 2.0.......|
        +---------------------------------------+
        |#Author: Kanunsha <dtlily>             |
-       |#Contact: Telegram @dtlily             |
+       |#Contact: WhatsApp +260965078193       |
        |#Date: Sun May 12 15:47:15 2019        |
        |#This tool is made for pentesting.     |
        |#Changing the description of this tool |
@@ -50,6 +50,6 @@ try:
 				break
 		print("\n\n[!] Done .. !!")
 	else:
-		print("fbbrute: error: No such file or directory")
+		print("CrackFacebook: error: No such file or directory")
 except KeyboardInterrupt:
-	print("fbbrute: error: Keyboard interrupt")
+	print("CrackFacebook: error: Keyboard interrupt")
